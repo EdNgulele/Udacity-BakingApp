@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+
+    <string name="BASE_URL">https://d17h27t6h515a5.cloudfront.net"</string>
+    <string name="EXTRA_RECIPE">recipeData</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_to_widget">Recipe on Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
